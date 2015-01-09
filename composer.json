@@ -1,0 +1,17 @@
+{
+	"name": "futurevision/untappd-api-client",
+    "type": "library",
+	"description": "API Client for Untappd API",
+    "keywords": ["untappd"],
+    "homepage": "http://future-vision.nl",
+    "authors": [
+        {
+            "name": "Robert Slootjes",
+            "email": "robert@future-vision.nl",
+			"role": "developer"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~5.1"
+    }
+}
